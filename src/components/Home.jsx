@@ -14,7 +14,7 @@ const Home = () => {
           <li
           className="font-thin text-white cursor-pointer hover:opacity-80"
           onClick={() => navigate('/about')}>
-            About
+            Abo
           </li>
 
           <li
